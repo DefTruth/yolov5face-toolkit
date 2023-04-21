@@ -1,4 +1,4 @@
-# YOLO5Face ToolKit
+# YOLOv5Face ToolKit
 使用 🍅🍅 Lite.AI.ToolKit C++工具箱来跑YOLO5Face人脸检测(带关键点)的一些案例(https://github.com/DefTruth/lite.ai.toolkit) , 包含ONNXRuntime C++、MNN、TNN和NCNN版本。
 
 ![](resources/YOLO5Face.png)
